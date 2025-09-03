@@ -1,4 +1,4 @@
-## Weather-Data-Analysis Dashboard
+## Weather-Data-Analysis Dashboard using Power Bi
 
 Waether Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNjNjZWQyN2QtNDIyOS00Y2Q5LTljZGMtMjVjNGI3YTRjNjNiIiwidCI6IjczNzRkMWYwLTY0ZTgtNDQ4Zi1hMjhiLTk4ZTVlYmZiZGU3ZSJ9
 
